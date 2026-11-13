@@ -1,0 +1,11 @@
+{
+  "domain": "ble_button_handoff",
+  "name": "Bluetooth button hand-off",
+  "codeowners": ["@Pr0t3ct0r"],
+  "dependencies": ["bluetooth"],
+  "documentation": "https://github.com/Pr0t3ct0r/ha-ble-button-handoff",
+  "issue_tracker": "https://github.com/Pr0t3ct0r/ha-ble-button-handoff/issues",
+  "iot_class": "local_push",
+  "requirements": [],
+  "version": "1.0.0"
+}
